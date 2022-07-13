@@ -1,4 +1,4 @@
-module github.com/zchee/protoc-gen-openapi
+module github.com/thoohv5/protoc-gen-openapi
 
 go 1.13
 
